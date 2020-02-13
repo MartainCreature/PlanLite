@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="3" lineNum="10" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="15" pc="268435492" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="16" pc="268435496" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="19" pc="268435515" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="20" pc="268435538" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="23" pc="268435584" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="24" pc="268435607" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="27" pc="268435653" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="28" pc="268435676" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="31" pc="268435722" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="32" pc="268435745" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="36" pc="268435791" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="37" pc="268435834" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="38" pc="268435858" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="39" pc="268435880" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="40" pc="268435904" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="43" pc="268435926" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="4" lineNum="44" pc="268435978" symbol="onLayout"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="5" lineNum="51" pc="268435982" symbol="compute"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="5" lineNum="53" pc="268435986" symbol="compute"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="5" lineNum="54" pc="268435997" symbol="compute"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="5" lineNum="55" pc="268436010" symbol="compute"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="5" lineNum="57" pc="268436029" symbol="compute"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="64" pc="268436046" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="66" pc="268436050" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="69" pc="268436093" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="70" pc="268436117" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="71" pc="268436144" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="73" pc="268436171" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="75" pc="268436195" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteView.mc" id="6" lineNum="78" pc="268436229" symbol="onUpdate"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="8" lineNum="5" pc="268436250" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="8" lineNum="6" pc="268436254" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="9" lineNum="10" pc="268436273" symbol="onStart"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="10" lineNum="14" pc="268436278" symbol="onStop"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="11" lineNum="18" pc="268436283" symbol="getInitialView"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteApp.mc" id="11" lineNum="19" pc="268436287" symbol="getInitialView"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="13" lineNum="9" pc="268436325" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="13" lineNum="10" pc="268436329" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="13" lineNum="14" pc="268436350" symbol="initialize"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="14" lineNum="17" pc="268436371" symbol="setColor"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="14" lineNum="18" pc="268436375" symbol="setColor"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="15" lineNum="21" pc="268436386" symbol="draw"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="15" lineNum="22" pc="268436390" symbol="draw"/>
+        <entry filename="/Users/fanzirui/Desktop/Plan Lite/PlanLite/Plan Lite/source/PlanLiteBackground.mc" id="15" lineNum="23" pc="268436422" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="15" pc="268436435" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="17" pc="268436447" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="18" pc="268436460" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="20" pc="268436473" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="21" pc="268436497" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="22" pc="268436660" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="24" pc="268436823" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="33" pc="268436861" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="22" lineNum="36" pc="268436873" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="22" lineNum="37" pc="268436897" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="22" lineNum="38" pc="268437030" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="22" lineNum="40" pc="268437163" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="23" lineNum="49" pc="268437201" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="23" lineNum="52" pc="268437213" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="23" lineNum="53" pc="268437237" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="23" lineNum="54" pc="268437370" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="23" lineNum="56" pc="268437503" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="24" lineNum="65" pc="268437541" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="24" lineNum="68" pc="268437553" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="24" lineNum="69" pc="268437577" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="24" lineNum="70" pc="268437710" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="24" lineNum="72" pc="268437843" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="81" pc="268437881" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="25" lineNum="84" pc="268437893" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="25" lineNum="85" pc="268437917" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="25" lineNum="86" pc="268438050" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="25" lineNum="88" pc="268438183" symbol="BottomRightLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="15" method="true" symbol="TopLeftLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry id="17" method="true" symbol="BottomLeftLayout"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="14" method="true" symbol="MainLayout"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry field="true" id="20" symbol="mValue"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="19" symbol="AppName"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="16" method="true" symbol="TopRightLayout"/>
+        <entry id="9" object="true" symbol="PlanLiteView"/>
+        <entry field="true" id="8388747" symbol="currentHeartRate"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="18" method="true" symbol="BottomRightLayout"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="10" object="true" symbol="PlanLiteApp"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435926" name="valueView" stackId="4" startPc="268435791"/>
+        <entry endPc="268435926" name="labelView" stackId="3" startPc="268435791"/>
+        <entry endPc="268435981" name="obscurityFlags" stackId="2" startPc="268435496"/>
+        <entry endPc="268435982" name="dc" stackId="1" startPc="268435492"/>
+        <entry endPc="268436046" name="info" stackId="1" startPc="268435982"/>
+        <entry endPc="268436249" name="value" stackId="2" startPc="268436050"/>
+        <entry endPc="268436250" name="dc" stackId="1" startPc="268436046"/>
+        <entry endPc="268436278" name="state" stackId="1" startPc="268436273"/>
+        <entry endPc="268436283" name="state" stackId="1" startPc="268436278"/>
+        <entry endPc="268436370" name="dictionary" stackId="1" startPc="268436329"/>
+        <entry endPc="268436386" name="color" stackId="1" startPc="268436371"/>
+        <entry endPc="268436435" name="dc" stackId="1" startPc="268436386"/>
+        <entry endPc="268436860" name="rez_cmp_local_text_value" stackId="6" startPc="268436447"/>
+        <entry endPc="268436860" name="rez_cmp_local_custom_drawable_15460722651322262822" stackId="4" startPc="268436447"/>
+        <entry endPc="268436860" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436447"/>
+        <entry endPc="268436860" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436447"/>
+        <entry endPc="268436860" name="rez_cmp_local_text_label" stackId="5" startPc="268436447"/>
+        <entry endPc="268436861" name="dc" stackId="1" startPc="268436435"/>
+        <entry endPc="268437200" name="rez_cmp_local_text_value" stackId="4" startPc="268436873"/>
+        <entry endPc="268437200" name="rez_cmp_local_text_label" stackId="3" startPc="268436873"/>
+        <entry endPc="268437200" name="rez_cmp_local_custom_drawable_85986299731915935411" stackId="2" startPc="268436873"/>
+        <entry endPc="268437201" name="dc" stackId="1" startPc="268436861"/>
+        <entry endPc="268437540" name="rez_cmp_local_text_value" stackId="4" startPc="268437213"/>
+        <entry endPc="268437540" name="rez_cmp_local_text_label" stackId="3" startPc="268437213"/>
+        <entry endPc="268437540" name="rez_cmp_local_custom_drawable_16807075901109353134" stackId="2" startPc="268437213"/>
+        <entry endPc="268437541" name="dc" stackId="1" startPc="268437201"/>
+        <entry endPc="268437880" name="rez_cmp_local_custom_drawable_49376750087811803156" stackId="2" startPc="268437553"/>
+        <entry endPc="268437880" name="rez_cmp_local_text_value" stackId="4" startPc="268437553"/>
+        <entry endPc="268437880" name="rez_cmp_local_text_label" stackId="3" startPc="268437553"/>
+        <entry endPc="268437881" name="dc" stackId="1" startPc="268437541"/>
+        <entry endPc="268438220" name="rez_cmp_local_text_value" stackId="4" startPc="268437893"/>
+        <entry endPc="268438220" name="rez_cmp_local_custom_drawable_20202689579449535561" stackId="2" startPc="268437893"/>
+        <entry endPc="268438220" name="rez_cmp_local_text_label" stackId="3" startPc="268437893"/>
+        <entry endPc="268438221" name="dc" stackId="1" startPc="268437881"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="229" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="347" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="480" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="511" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="558" parentId="globals" symbolId="PlanLiteApp" type="class"/>
+        <dataEntry offset="629" parentId="globals" symbolId="PlanLiteView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PlanLiteView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PlanLiteView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="PlanLiteView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PlanLiteView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PlanLiteApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PlanLiteApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PlanLiteApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PlanLiteApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
