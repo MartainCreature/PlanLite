@@ -22,6 +22,10 @@ class PlanLiteView extends WatchUi.DataField {
     [[480, 5, 100, 1], [120, 8, 60, 0], [180, 1, 100, 6], [120, 1, 100, 1], [0]],
     [[300, 5, 80, 1], [1260, 7, 90, 1], [240, 1, 90, 1], [1440, 8, 90, 1], [60, 10, 120, 1], [300, 1, 90, 1], [0]]];
 
+    hidden var labelShown = ["", "", "", ""];
+    hidden var valueShown = [0, 0, 0, 0];
+    hidden var paramQuantity;
+
     hidden var intensityShown;
     hidden var speedShown;
     hidden var powerShown;
@@ -51,6 +55,8 @@ class PlanLiteView extends WatchUi.DataField {
 
         maxSpeed = app.getProperty("maxSpeed");
         maxPower = app.getProperty("maxPower");
+
+        getShownParam();
     }
 
     function onLayout(dc) {
@@ -92,6 +98,36 @@ class PlanLiteView extends WatchUi.DataField {
         }
 
         ticker = trainingSession[selection][position][time];
+
+        getShownParam();
+    }
+
+    function getShownParam() {
+        paramQuantity = 0;
+        if (intensityShown) {
+            labelShown[paramQuantity] = WatchUi.loadResource(Rez.Strings.TargetIntensity);
+            valueShown[paramQuantity] = trainingSession[selection][position][intensity];
+
+            paramQuantity++;
+        }
+        if (speedShown) {
+            labelShown[paramQuantity] = WatchUi.loadResource(Rez.Strings.TargetSpeed);
+            valueShown[paramQuantity] = trainingSession[selection][position][intensity] * maxSpeed / 10;
+
+            paramQuantity++;
+        }
+        if (powerShown) {
+            labelShown[paramQuantity] = WatchUi.loadResource(Rez.Strings.TargetPower);
+            valueShown[paramQuantity] = trainingSession[selection][position][intensity] * maxPower / 10;
+
+            paramQuantity++;
+        }
+        if (cadenceShown) {
+            labelShown[paramQuantity] = WatchUi.loadResource(Rez.Strings.TargetCadence);
+            valueShown[paramQuantity] = trainingSession[selection][position][cadence];
+            
+            paramQuantity++;
+        }
     }
 
     function compute(info) {
@@ -103,49 +139,8 @@ class PlanLiteView extends WatchUi.DataField {
             startNextInterval();
         }
 
-        var i = 0;
-        switch (ticker % 4 + i) {
-            case 0: {
-                if (intensityShown) {
-                    label = WatchUi.loadResource(Rez.Strings.TargetIntensity);
-                    value = trainingSession[selection][position][intensity];
-
-                    break;
-                } else {
-                    i++;
-                }
-            }
-            case 1: {
-                if (speedShown) {
-                    label = WatchUi.loadResource(Rez.Strings.TargetSpeed);
-                    value = trainingSession[selection][position][intensity] * maxSpeed / 10;
-
-                    break;
-                } else {
-                    i++;
-                }
-            }
-            case 2: {
-                if (powerShown) {
-                    label = WatchUi.loadResource(Rez.Strings.TargetPower);
-                    value = trainingSession[selection][position][intensity] * maxPower / 10;
-
-                    break;
-                } else {
-                    i++;
-                }
-            }
-            case 3: {
-                if (cadenceShown) {
-                    label = WatchUi.loadResource(Rez.Strings.TargetCadence);
-                    value = trainingSession[selection][position][cadence];
-
-                    break;
-                } else {
-                    i++;
-                }
-            }
-        }
+        label = labelShown[ticker % paramQuantity];
+        value = valueShown[ticker % paramQuantity];
     }
 
     function onTimerStart() {
