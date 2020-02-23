@@ -8,7 +8,7 @@ class PlanLiteTimerView extends WatchUi.SimpleDataField {
     hidden var selection;
     hidden var position;
     hidden var count;
-    hidden var ticker;
+    hidden var countDown;
 
     hidden enum {time, repeat}
 
@@ -29,7 +29,7 @@ class PlanLiteTimerView extends WatchUi.SimpleDataField {
         selection = app.getProperty("session");
         position = 0;
         count = 0;
-        ticker = trainingSession[selection][position][time];
+        countDown = trainingSession[selection][position][time];
     }
 
     function startNextInterval() {
@@ -46,19 +46,19 @@ class PlanLiteTimerView extends WatchUi.SimpleDataField {
             position++;
         }
 
-        ticker = trainingSession[selection][position][time];
+        countDown = trainingSession[selection][position][time];
     }
 
     function compute(info) {
         if (active) {
-            ticker--;
+            countDown--;
         }
 
-        if (ticker == 0 && trainingSession[selection][position][time] > 0) {
+        if (countDown == 0 && trainingSession[selection][position][time] > 0) {
             startNextInterval();
         }
 
-        return ticker;
+        return countDown;
     }
 
     function onTimerStart() {
