@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Plan Lite</string>
+    <string id="Label">本組剩餘時間</string>
+
+    <string id="session">計劃</string>
+    <string id="fatBurning20">燃脂訓練（20min）</string>
+    <string id="fatBurning30">燃脂訓練（30min）</string>
+    <string id="threshold20">閾值訓練（20min）</string>
+    <string id="strength40">力量訓練（40min）</string>
+    <string id="endurance60">耐力訓練（60min）</string>
+</strings>
