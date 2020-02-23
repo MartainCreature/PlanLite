@@ -165,7 +165,7 @@ class PlanLiteView extends WatchUi.DataField {
         }
         Value.setText(value.format("%.2f"));
 
-        View.findDrawableById("label").setText("50");//label);
+        View.findDrawableById("label").setText(label);
 
         View.onUpdate(dc);
     }
