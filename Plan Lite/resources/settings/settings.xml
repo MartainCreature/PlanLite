@@ -1,0 +1,41 @@
+<resources>
+    <properties>
+        <property id="session" type="number">0</property>
+        <property id="intensityShown" type="boolean">true</property>
+        <property id="speedShown" type="boolean">true</property>
+        <property id="powerShown" type="boolean">true</property>
+        <property id="cadenceShown" type="boolean">true</property>
+        <property id="maxSpeed" type="number">40</property>
+        <property id="maxPower" type="number">500</property>
+    </properties>
+
+    <settings>
+        <setting propertyKey="@Properties.session" title="@Strings.session">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.fatBurning20</listEntry>
+                <listEntry value="1">@Strings.fatBurning30</listEntry>
+                <listEntry value="2">@Strings.threshold20</listEntry>
+                <listEntry value="3">@Strings.strength40</listEntry>
+                <listEntry value="4">@Strings.endurance60</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.intensityShown" title="@Strings.intensityShown">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.speedShown" title="@Strings.speedShown">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.powerShown" title="@Strings.powerShown">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.cadenceShown" title="@Strings.cadenceShown">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.maxSpeed" title="@Strings.maxSpeed">
+            <settingConfig type="numeric" min="0" max="80" />
+        </setting>
+        <setting propertyKey="@Properties.maxPower" title="@Strings.maxPower">
+            <settingConfig type="numeric" min="0" max="2000" />
+        </setting>
+    </settings>
+</resources>
