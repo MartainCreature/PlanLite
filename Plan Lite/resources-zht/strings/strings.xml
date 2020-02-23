@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">Plan Lite</string>
+    <string id="Target">目標</string>
+    <string id="TargetIntensity">目標強度</string>
+    <string id="TargetSpeed">目標速度</string>
+    <string id="TargetPower">目標功率</string>
+    <string id="TargetCadence">目標踏頻</string>
+
+    <string id="session">計劃</string>
+    <string id="intensityShown">顯示強度</string>
+    <string id="speedShown">顯示速度</string>
+    <string id="powerShown">顯示功率</string>
+    <string id="cadenceShown">顯示踏頻</string>
+    <string id="maxSpeed">最大速度</string>
+    <string id="maxPower">最大功率</string>
+
+    <string id="fatBurning20">燃脂訓練（20min）</string>
+    <string id="fatBurning30">燃脂訓練（30min）</string>
+    <string id="threshold20">閾值訓練（20min）</string>
+    <string id="strength40">力量訓練（40min）</string>
+    <string id="endurance60">耐力訓練（60min）</string>
+</strings>

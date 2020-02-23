@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">Plan Lite</string>
+    <string id="Target">Target</string>
+    <string id="TargetIntensity">Target intensity</string>
+    <string id="TargetSpeed">Target speed</string>
+    <string id="TargetPower">Target power</string>
+    <string id="TargetCadence">Target cadence</string>
+
+    <string id="session">Session</string>
+    <string id="intensityShown">Show intensity</string>
+    <string id="speedShown">Show speed</string>
+    <string id="powerShown">Show power</string>
+    <string id="cadenceShown">Show cadence</string>
+    <string id="maxSpeed">Max speed</string>
+    <string id="maxPower">Max power</string>
+
+    <string id="fatBurning20">Fat-burning(20min)</string>
+    <string id="fatBurning30">Fat-burning(30min)</string>
+    <string id="threshold20">Threshold(20min)</string>
+    <string id="strength40">Strength(40min)</string>
+    <string id="endurance60">Endurance(20min)</string>
+</strings>
